@@ -45,7 +45,7 @@ My work includes echocardiography analysis, audio-visual deepfake detection, AI-
 
 ## 🚀 Featured Projects
 
-### 1. Explainable AI for Echocardiography Analysis
+### [Explainable AI for Echocardiography Analysis](https://github.com/Harshithabhaskaran/Explainable-Cardiac-AI)
 
 **Python · PyTorch · U-Net · ConvLSTM · Grad-CAM · Mistral-7B**
 
