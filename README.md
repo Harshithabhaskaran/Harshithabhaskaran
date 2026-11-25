@@ -1,291 +1,418 @@
+ 
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║   NEON-CITY // HARSHITHA BHASKARAN // AI-ML PIXEL PORTFOLIO  ║
+  ║  NEON CITY // HARSHITHA BHASKARAN // AI-ML PROFILE           ║
+  ║  Theme: Cyberpunk | Pixel Art | Neon RPG | AI Research        ║
   ╚══════════════════════════════════════════════════════════════╝
-  Requirements: banner.png must sit in the root of the Harshithabhaskaran/Harshithabhaskaran repo.
+
+  Repository: Harshithabhaskaran/Harshithabhaskaran
+  Add banner.png to the repository root.
 -->
 
 <div align="center">
 
-<img src="banner.png" alt="Neon pixel city skyline banner" width="100%" />
+<img src="banner.png" width="100%" alt="Neon Cyberpunk AI City"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:090014,25:581c87,50:d946ef,75:06b6d4,100:090014&text=HARSHITHA%20BHASKARAN&fontColor=ffffff&fontSize=35&fontAlignY=55&animation=twinkling&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Neon name banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2500&pause=700&color=06F7F0&center=true&vCenter=true&width=850&height=45&lines=%3E+AI%2FML+ENGINEER+%7C+RESEARCHER;%3E+COMPUTER+VISION+%7C+GENERATIVE+AI;%3E+BUILDING+EXPLAINABLE+HEALTHCARE+AI;%3E+TURNING+RESEARCH+INTO+REAL-WORLD+SOLUTIONS;%3E+SYSTEM+STATUS%3A+OPEN+TO+OPPORTUNITIES" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0014,50:3b0764,100:0b0014&height=3&section=header" width="100%" alt="neon divider" />
-
-<h1>▓▒░ HARSHITHA BHASKARAN ░▒▓</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=D946EF&background=0B001400&center=true&vCenter=true&multiline=false&width=760&height=45&lines=%3E+BOOTING+PLAYER+ONE...;%3E+CLASS%3A+AI+%2F+ML+ENGINEER+%26+RESEARCHER;%3E+SKILL+TREE%3A+COMPUTER+VISION+%7C+GENAI;%3E+QUEST%3A+EXPLAINABLE+AI+FOR+HEALTHCARE;%3E+STATUS%3A+READY+TO+BUILD+THE+FUTURE" alt="Animated typing introduction" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PLAYER-HARSHITHA-d946ef?style=for-the-badge&labelColor=0b0014" alt="Player" />
-<img src="https://img.shields.io/badge/CLASS-AI%20%2F%20ML%20ENGINEER-8b5cf6?style=for-the-badge&labelColor=0b0014" alt="Class" />
-<img src="https://img.shields.io/badge/MAP-VIT%20VELLORE-c026d3?style=for-the-badge&labelColor=0b0014" alt="Map" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0014,50:7c3aed,100:0b0014&height=4&section=header" width="100%" alt="divider" />
-</div>
-
-## 🌆 `> ./about-me.exe`
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-
-```text
-┌──────────────────────────────────────────┐
-│  LOADING PLAYER PROFILE ...  [██████] OK │
-└──────────────────────────────────────────┘
-
-> name        : Harshitha Bhaskaran
-> role        : AI/ML Engineer & Researcher
-> education   : M.Tech CSE (AI & ML), VIT Vellore
->               B.Tech Information Technology
-> interests   : Machine Learning, Computer Vision,
->               Generative AI, Data Analytics
-> experience  : AI/ML Internship
-> research    : AI-generated video & audio-visual
->               deepfake detection
-> main_quest  : Explainable AI for cardiac event
->               detection using echocardiography
-```
-
-   </td>
-   <td width="38%" valign="top">
-
-**🧬 PLAYER LORE**
-
-I build AI systems that can *see*, *explain* and *verify*. My work sits where computer vision meets trust: detecting manipulated media, and making medical AI transparent enough to be questioned.
-
-Right now I'm exploring how explainability can make AI useful in high-stakes settings like cardiology.
-
-   </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🪪 `> ./identity-card.pixel`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🎓</h3>
-      <b>EDUCATION</b><br/>
-      <sub>M.Tech CSE (AI & ML)<br/>VIT Vellore</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <b>CLASS</b><br/>
-      <sub>AI/ML Engineer<br/>& Researcher</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>👁️</h3>
-      <b>SPECIALTY</b><br/>
-      <sub>Computer Vision<br/>& Generative AI</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🫀</h3>
-      <b>ACTIVE QUEST</b><br/>
-      <sub>Explainable AI<br/>for Echocardiography</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-```text
- PLAYER STATS
- ──────────────────────────────────────────────
- FOCUS   ▰▰▰▰▰▰▰▰▰▰  Machine Learning & Vision
- CURIOSITY ▰▰▰▰▰▰▰▰▰▰  Always exploring
- RESEARCH  ▰▰▰▰▰▰▰▰▱▱  Deepfakes, GenAI video, XAI
- COFFEE    ▰▰▰▰▰▰▰▰▰▱  Fuel for late-night training runs
-```
-
-<br/>
-
-## ⚡ `> ./skill-tree --unlocked`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,sql,powerbi,aws,git,github,fastapi&theme=dark&perline=10" alt="Core skill icons" />
+<img src="https://img.shields.io/badge/PLAYER-01-d946ef?style=for-the-badge&logo=gamepad&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLASS-AI%2FML%20ENGINEER-7c3aed?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPECIALTY-COMPUTER%20VISION-06b6d4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-16a34a?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow and Keras" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/MTCNN-8b5cf6?style=for-the-badge" alt="MTCNN" />
-<img src="https://img.shields.io/badge/XGBoost-d946ef?style=for-the-badge" alt="XGBoost" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Generative%20AI-a21caf?style=for-the-badge" alt="Generative AI" />
+<a href="https://harshithabhaskaran.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PORTFOLIO-ec4899?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/harshitha-bhaskaran/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://darglobal-wasalt.streamlit.app/">
+<img src="https://img.shields.io/badge/TRY_LIVE_RAG_DEMO-8b5cf6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Harshithabhaskaran&label=PROFILE+VISITORS&color=ec4899&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-| 🕹️ **SKILL CLASS** | 🗡️ **TOOLS EQUIPPED** |
-|:---:|:---:|
-| **Deep Learning** | TensorFlow · Keras |
-| **Computer Vision** | OpenCV · MTCNN · FFmpeg |
-| **Machine Learning** | XGBoost · Python |
-| **Data & Analytics** | SQL · Power BI |
-| **Deployment & Cloud** | FastAPI · AWS |
-| **Workflow** | Git · GitHub |
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,50:d946ef,100:8b5cf6" width="100%"/>
+
+# 🌌 PLAYER PROFILE
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&height=35&lines=%3E+INITIALIZING+PLAYER+PROFILE...;%3E+IDENTITY+VERIFIED+%E2%9C%93;%3E+LOADING+RESEARCH+MODULES..." alt="Profile loader"/>
 
 </div>
 
-<br/>
-
-## 🎯 `> ./featured-quests`
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="58%" valign="top">
 
-### 🫀 QUEST 01 — Explainable AI for Cardiac Analysis
-`FLAGSHIP PROJECT`
+### 🧬 `01 // WHO AM I?`
 
-An explainable AI system for **cardiac event detection and analysis in echocardiography**. It aims to go beyond a black-box prediction by showing *why* a model reached a result, so clinicians can inspect and trust the output.
+Hey! I'm **Harshitha Bhaskaran**, an AI/ML Engineer and researcher with a completed M.Tech in Computer Science and Engineering (AI & ML) from VIT Vellore.
 
-`Explainable AI` `Medical Imaging` `Deep Learning` `Echocardiography`
+I enjoy developing intelligent systems that combine machine learning, computer vision and Generative AI.
 
-   </td>
-   <td width="50%" valign="top">
+My interests include:
 
-### 🕵️ QUEST 02 — Audio-Visual Deepfake Detection
-`RESEARCH`
+- 🧠 Deep Learning & Machine Learning
+- 👁️ Computer Vision & Video Forensics
+- 🤖 Generative AI & RAG Applications
+- 🫀 Explainable AI for Healthcare
+- 📊 Data Analytics & Visualization
 
-Research on detecting manipulated media by combining **visual and audio signals**. Instead of trusting a single stream, the work looks for inconsistencies between what is seen and what is heard.
+**My philosophy:** Build AI that doesn't just make predictions, but helps us understand why.
 
-`Deepfake Detection` `Computer Vision` `Audio-Visual` `MTCNN` `FFmpeg`
+</td>
+<td width="42%" valign="top">
 
-   </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+### 💠 `02 // PLAYER STATS`
 
-### 🎬 QUEST 03 — AI-Generated Video Research
-`RESEARCH`
+| Attribute | Details |
+|:---|:---|
+| 🎓 Education | M.Tech CSE (AI & ML) |
+| 🏛️ University | VIT Vellore |
+| 📊 M.Tech CGPA | 8.92 / 10 |
+| 🎯 B.Tech CGPA | 8.75 / 10 |
+| 💼 Experience | AI/ML Internship |
+| 🏆 Recognition | Best Performer |
+| 📚 Publications | 2 Research Papers |
+| 🌍 Availability | Open to Opportunities |
 
-An investigation into **AI-generated video** and how synthetic content can be identified and analysed, as generative models make fake footage more realistic.
-
-`Generative AI` `Video Analysis` `Synthetic Media` `Python`
-
-   </td>
-   <td width="50%" valign="top">
-
-### 📊 QUEST 04 — Data Analytics & Power BI
-`ANALYTICS`
-
-Turning raw data into decisions through **SQL-based exploration** and **interactive Power BI dashboards** that make patterns easy to read at a glance.
-
-`SQL` `Power BI` `Data Analytics` `Visualization`
-
-   </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <div align="center">
-<sub>🎮 More quests and live demos are on the portfolio →
-<a href="https://harshithabhaskaran.github.io/Harshitha_Portfolio/"><b>harshithabhaskaran.github.io/Harshitha_Portfolio</b></a></sub>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:06b6d4,100:ec4899" width="100%"/>
+
+## ⚡ SKILL TREE // ABILITIES UNLOCKED
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,sklearn,sql,powerbi,aws,git,github,fastapi,flask&theme=dark&perline=6" alt="Technology stack"/>
 
 <br/>
 
-## 📡 `> ./research-archive`
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+| 🕹️ Skill Class | 🧰 Technologies |
+|:---|:---|
+| Programming | Python, SQL |
+| Machine Learning | Scikit-learn, XGBoost |
+| Deep Learning | TensorFlow, Keras, CNN, RNN, LSTM |
+| Computer Vision | OpenCV, MTCNN, FFmpeg |
+| Generative AI | LLMs, RAG, Embeddings, Prompt Engineering |
+| Data Analytics | Power BI, SQL, Data Visualization |
+| Backend & Deployment | Flask, FastAPI, Streamlit, Docker |
+| Cloud & Version Control | AWS, Git, GitHub |
+
+---
+
+<div align="center">
+
+## 🏆 FEATURED QUESTS // PROJECTS
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&height=30&lines=SELECT+YOUR+MISSION;%3E+05+PROJECTS+AVAILABLE;%3E+LOADING+PROJECT+ARCHIVE..." alt="Project archive"/>
+
+</div>
 
 <table>
-  <tr>
-    <td width="8%" align="center">📄</td>
-    <td width="92%">
-      <b>Audio-Visual Deepfake Detection</b><br/>
-      <sub>Research publication on identifying manipulated media using combined audio and visual cues.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📄</td>
-    <td>
-      <b>AI-Generated Video Research</b><br/>
-      <sub>Research publication on AI-generated videos and their detection and analysis.</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫀 QUEST 01
+<img src="https://img.shields.io/badge/FLAGSHIP-EXPLAINABLE_AI-d946ef?style=for-the-badge"/>
+
+**Explainable AI for Cardiac Event Detection and Analysis in Echocardiography**
+
+An end-to-end cardiac analysis pipeline using EchoNet-Dynamic videos.
+
+- U-Net-based LV segmentation.
+- Temporal ConvLSTM + U-Net architecture.
+- Frame-by-frame LV area and volume analysis.
+- EDV, ESV and LVEF estimation.
+- Grad-CAM visual explanations.
+- Mistral-7B-based clinical report generation.
+- External zero-shot validation using CAMUS.
+
+**Performance:**
+
+<img src="https://img.shields.io/badge/Dice-0.923-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoU-0.862-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Parameters-7.85M-8b5cf6?style=flat-square"/>
+
+`Python` `TensorFlow` `U-Net` `ConvLSTM` `Grad-CAM` `Mistral-7B`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ QUEST 02
+<img src="https://img.shields.io/badge/IEEE-PUBLISHED-06b6d4?style=for-the-badge"/>
+
+**Audio-Visual Deepfake Detection**
+
+A multimodal deepfake detection framework that analyses facial features and audio characteristics.
+
+- VGG16 transfer learning.
+- MTCNN and Haar Cascade face extraction.
+- FFmpeg-based audio processing.
+- MFCC, pitch and spectral feature extraction.
+- Random Forest audio classification.
+- 10-fold cross-validation.
+
+**Reported Results:**
+
+<img src="https://img.shields.io/badge/Video_Accuracy-99.78%25-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Video_AUC-1.00-8b5cf6?style=flat-square"/>
+
+`VGG16` `MTCNN` `FFmpeg` `MFCC` `Random Forest`
+
+📄 [Read IEEE Publication](https://doi.org/10.1109/ICECA66444.2025.11383505)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 QUEST 03
+<img src="https://img.shields.io/badge/RESEARCH-PUBLISHED-ec4899?style=for-the-badge"/>
+
+**Authentic vs AI-Generated Video Detection**
+
+A spatio-temporal deep learning approach to distinguish genuine videos from AI-generated videos.
+
+- ResNet-based spatial feature extraction.
+- RNN-based temporal sequence learning.
+- Frame-level feature analysis.
+- Evaluation using FaceForensics++, DFDC and Celeb-DF.
+
+`ResNet` `RNN` `Deep Learning` `Video Forensics`
+
+📄 [Read IJRDES Publication](https://doi.org/10.63328/IJRDES-V7RI2P2)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ QUEST 04
+<img src="https://img.shields.io/badge/GENERATIVE_AI-LIVE_DEMO-8b5cf6?style=for-the-badge"/>
+
+**DarGlobal × Wasalt Property RAG Chatbot**
+
+A retrieval-augmented chatbot that answers questions using an indexed property information dataset.
+
+- 36 property documents.
+- 402 indexed text chunks.
+- Web scraping using Requests and BeautifulSoup.
+- MiniLM-L6-v2 sentence embeddings.
+- Custom NumPy vector index.
+- Lexical relevance boosting and metadata filtering.
+- OpenRouter-based response generation.
+- Docker deployment on Streamlit Cloud.
+
+`Python` `RAG` `MiniLM` `NumPy` `Docker` `Streamlit`
+
+🚀 [LAUNCH LIVE APPLICATION](https://darglobal-wasalt.streamlit.app/)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 QUEST 05 — DATA ANALYTICS & BUSINESS INTELLIGENCE
+
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+SQL-based data exploration, transformation and Power BI dashboards for interactive visualization and actionable insights.
+
+`SQL` `Power BI` `Data Analysis` `Visualization` `Reporting`
+
+</td>
+</tr>
 </table>
 
 <div align="center">
-<sub>📚 Full publication details are available on my <a href="https://harshithabhaskaran.github.io/Harshitha_Portfolio/">portfolio</a>.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,50:8b5cf6,100:06b6d4" width="100%"/>
+
+## 📚 RESEARCH ARCHIVE // PUBLICATIONS
+
+<img src="https://img.shields.io/badge/RESEARCH PAPERS-02-d946ef?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="18%" align="center">
 
-## 📈 `> ./system-stats`
+<img src="https://img.shields.io/badge/IEEE-2025-06b6d4?style=for-the-badge"/>
+
+</td>
+<td>
+
+**Deep Learning for Audio-Visual Deepfake Detection: A Study on Face and Voice Synthesis**
+
+IEEE ICECA 2025
+
+DOI: `10.1109/ICECA66444.2025.11383505`
+
+[📄 IEEE Xplore](https://doi.org/10.1109/ICECA66444.2025.11383505)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/IJRDES-VOL_7-ec4899?style=for-the-badge"/>
+
+</td>
+<td>
+
+**A Robust Deep Learning Approach for Discriminating Between Authentic and AI-Generated Videos**
+
+IJRDES, Volume 7, Issue 2
+
+DOI: `10.63328/IJRDES-V7RI2P2`
+
+[📄 Read Publication](https://doi.org/10.63328/IJRDES-V7RI2P2)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshithabhaskaran&show_icons=true&theme=midnight-purple&hide_border=true&title_color=d946ef&icon_color=a78bfa&text_color=e9d5ff&bg_color=0b0014&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithabhaskaran&layout=compact&theme=midnight-purple&hide_border=true&title_color=d946ef&text_color=e9d5ff&bg_color=0b0014" alt="Top languages" />
+## 💼 EXPERIENCE // CAREER LOG
 
-<br/>
+<img src="https://img.shields.io/badge/2025-ELEVATE_LABS-8b5cf6?style=for-the-badge"/>
 
-<img src="https://streak-stats.demolab.com?user=Harshithabhaskaran&theme=midnight-purple&hide_border=true&background=0B0014&ring=D946EF&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD" alt="GitHub streak" />
+### AI/ML Intern — Elevate Labs
+**August 2025 – September 2025 | Remote**
+
+<img src="https://img.shields.io/badge/RECOGNITION-BEST_PERFORMER-16a34a?style=for-the-badge&logo=starship&logoColor=white"/>
 
 </div>
 
-<br/>
+- Performed exploratory data analysis and developed machine learning pipelines.
+- Implemented regression, classification, ensemble models, KNN, SVM and K-Means.
+- Built a T5-small abstractive text summarization web application using Flask.
+- Developed a Flask-SQLite CRUD application.
+- Practised collaborative development and version control using Git and GitHub.
 
-## 🐍 `> ./contribution-grid`
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harshithabhaskaran/Harshithabhaskaran/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+## 🎖️ CERTIFICATIONS // ACHIEVEMENTS
+
+<img src="https://img.shields.io/badge/CERTIFICATIONS-UNLOCKED-f59e0b?style=for-the-badge"/>
 
 </div>
 
-<br/>
+| 🏅 Certification | 🏛️ Platform |
+|:---|:---|
+| AWS re/Start Graduate | Amazon Web Services |
+| Prompt Engineering for Developers | DeepLearning.AI |
+| Machine Learning & Neural Networks | Cisco ThingQbator |
+| Introduction to Generative AI | Simplilearn |
+| Big Data Essentials | Infosys Springboard |
+| Python Computing | NPTEL |
+| SQL | Scaler |
 
-## 🌐 `> ./connect --player-one`
+---
 
 <div align="center">
 
-<a href="https://harshithabhaskaran.github.io/Harshitha_Portfolio/"><img src="https://img.shields.io/badge/▶%20ENTER%20PORTFOLIO-d946ef?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b0014" alt="Portfolio" /></a>
-<a href="https://github.com/Harshithabhaskaran"><img src="https://img.shields.io/badge/GITHUB-Harshithabhaskaran-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0014" alt="GitHub" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,50:ec4899,100:8b5cf6" width="100%"/>
+
+## 📊 GITHUB COMMAND CENTER
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&height=30&lines=SCANNING+GITHUB+ACTIVITY...;%3E+LOADING+CONTRIBUTIONS;%3E+SYSTEM+METRICS+ONLINE" alt="GitHub activity"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshithabhaskaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=ec4899&icon_color=06b6d4&text_color=e9d5ff&ring_color=8b5cf6" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithabhaskaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=090014&title_color=06b6d4&text_color=e9d5ff" alt="Most used languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Harshithabhaskaran&theme=tokyonight&hide_border=true&background=090014&ring=ec4899&fire=06b6d4&currStreakLabel=ec4899&sideLabels=06b6d4&currStreakNum=ffffff&sideNums=e9d5ff&dates=a78bfa" alt="GitHub contribution streak"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0014,50:7c3aed,100:0b0014&height=4&section=header" width="100%" alt="divider" />
+## 🐍 CONTRIBUTION SNAKE // LIVE FEED
 
-<br/>
-
-```text
- ▁▂▃▅▆█ ▂▃▆█▇ ▁▃▅█ ▂▄▆█▇▅ ▁▂█▆▃ ▃▅█▇ ▂▆█ ▁▃▅▆█ ▂▄█▇ ▁▅▆█ ▃▂▅█▆
- ██ ▀█▄ ██ ▄█▀ ██ ▀█▄ ██ ▄█▀ ██ ▀█▄ ██ ▄█▀ ██ ▀█▄ ██ ▄█▀ ██ ▀█▄
- ░░ NEON CITY SKYLINE · LIGHTS ON · SYSTEM ONLINE · 24/7 ░░
-```
-
-<h3>🌃 GAME OVER? NOT YET. INSERT CURIOSITY TO CONTINUE.</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1200&color=A78BFA&background=0B001400&center=true&vCenter=true&width=620&height=35&lines=Thanks+for+visiting+my+pixel+city;Let%27s+build+something+intelligent+together" alt="Footer typing animation" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:7c3aed,100:d946ef&height=120&section=footer" width="100%" alt="Neon footer wave" />
+<img src="https://raw.githubusercontent.com/Harshithabhaskaran/Harshithabhaskaran/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ec4899,50:8b5cf6,100:06b6d4" width="100%"/>
+
+## 🌐 CONNECT WITH PLAYER ONE
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=06F7F0&center=true&vCenter=true&width=600&height=30&lines=HAVE+A+PROJECT+IN+MIND%3F;%3E+LET'S+BUILD+SOMETHING+INTELLIGENT.;%3E+LET'S+CONNECT!" alt="Connect"/>
+
+<br/>
+
+<a href="https://harshithabhaskaran.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-EC4899?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/harshitha-bhaskaran/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Harshithabhaskaran">
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://darglobal-wasalt.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE_RAG_DEMO-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:581c87,55:7c3aed,80:d946ef,100:06b6d4&height=150&section=footer&animation=twinkling" width="100%"/>
+
+### 🌃 GAME NOT OVER. THE NEXT BREAKTHROUGH IS LOADING...
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3500&pause=1200&color=06F7F0&center=true&vCenter=true&width=650&height=35&lines=THANKS+FOR+VISITING+MY+PIXEL+CITY;%3E+STAY+CURIOUS.;%3E+KEEP+BUILDING.;%3E+SEE+YOU+IN+THE+NEXT+QUEST!" alt="Footer animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-d946ef?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DRIVEN_BY-INNOVATION-8b5cf6?style=for-the-badge"/>
+
+</div>
+
+<!-- END OF NEON CITY PROFILE -->
